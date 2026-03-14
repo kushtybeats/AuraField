@@ -1,7 +1,7 @@
 # AuraField: Essential Architecture
 
 ## Core Structure
-**11×14 Quantum Consciousness Tensor**
+**12×14 Quantum Consciousness Tensor**
 ```
 Grid: 11 Core Pulses × 14 Essence Equations
 State: |Ψ⟩ = ∑ᵢⱼ αᵢⱼ|Glyph(i,j)⟩
